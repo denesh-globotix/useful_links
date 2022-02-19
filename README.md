@@ -6,3 +6,9 @@ https://carbon.now.sh/
 
 ## Markdown Editor
 https://readme.so/editor
+
+## Create fonts
+https://www.calligraphr.com/en/
+
+## Find out a website's tech stack 
+https://www.whatruns.com/
