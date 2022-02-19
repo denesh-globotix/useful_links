@@ -12,3 +12,9 @@ https://www.calligraphr.com/en/
 
 ## Find out a website's tech stack 
 https://www.whatruns.com/
+
+## 30s Code Snippets
+https://www.30secondsofcode.org/
+
+## Cool UI tools
+https://www.hiddentools.dev/
