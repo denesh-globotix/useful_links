@@ -18,3 +18,6 @@ https://www.30secondsofcode.org/
 
 ## Cool UI tools
 https://www.hiddentools.dev/
+
+## Start Up Ideas
+https://ideasai.net/
