@@ -21,3 +21,6 @@ https://www.hiddentools.dev/
 
 ## Start Up Ideas
 https://ideasai.net/
+
+## Security Vulnerabilities:
+https://blog.shiftleft.io/node-js-vulnerability-cheatsheet-447b0c9bdb99
